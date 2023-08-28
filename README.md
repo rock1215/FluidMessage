@@ -52,6 +52,8 @@ local computer. If you haven't, do that first. You can find instructions in the 
 
 6. Open http://127.0.0.1:8000/ in a web browser to view your application.
 
+
+test
 What Do I Do Next?
 ------------------
 
